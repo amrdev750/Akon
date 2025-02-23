@@ -1,5 +1,5 @@
 import datetime
-import requests
+import requests # type: ignore
 import json
 
 
@@ -51,6 +51,11 @@ Time_Now = datetime.datetime.now
 #print(f"precipitation Probability {precipitationProbability} percent")
 
 
+
+
+
+
+#can you see this??
 
 
 
